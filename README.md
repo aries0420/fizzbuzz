@@ -4,10 +4,10 @@ I provided 3 solutions for this homework. The 1st method is the typical solution
 
 For the 3rd method, this is the assumption I'm making. Suppose we're given a csv file that has all the fizzbuzz values and their associated messages like below:
 
-Fizzbuzz,"Div","Msg"
-fb1,3,"Fizz"
-fb2,5,"Buzz"
-fb3,7,"Sivv"
+Fizzbuzz,"Div","Msg"<br>
+fb1,3,"Fizz"<br>
+fb2,5,"Buzz"<br>
+fb3,7,"Sivv"<br>
 fb4,15,"FizzBuzz"
 
 Lastly, I haven't had a chance to test/run this in ruby to check the outputs yet, but the idea is there!
